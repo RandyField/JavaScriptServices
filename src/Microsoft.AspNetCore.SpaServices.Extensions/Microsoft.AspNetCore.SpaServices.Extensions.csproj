@@ -15,4 +15,8 @@
     <PackageReference Include="Microsoft.Extensions.FileProviders.Physical" Version="$(MicrosoftExtensionsFileProvidersPhysicalPackageVersion)" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Vue\" />
+  </ItemGroup>
+
 </Project>
